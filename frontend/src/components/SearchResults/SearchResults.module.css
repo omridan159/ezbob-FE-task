@@ -1,0 +1,30 @@
+.meta {
+   margin-top: 20px;
+   font-size: 14px;
+   color: #555;
+}
+
+.resultList {
+   list-style: none;
+   padding: 0;
+   margin: 20px 0;
+}
+
+.resultItem {
+   margin-bottom: 20px;
+}
+
+.title {
+   font-size: 18px;
+   color: #007bff;
+   text-decoration: none;
+}
+
+.title:hover {
+   text-decoration: underline;
+}
+
+.description {
+   font-size: 14px;
+   color: #333;
+}
